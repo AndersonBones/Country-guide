@@ -122,6 +122,6 @@ button{
 
 @media only screen and (max-width: 400px) {
     .container{
-        width: 100%;
+        width: 95%;
     }
 }
